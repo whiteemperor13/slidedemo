@@ -1,62 +1,59 @@
-class: center, middle
 
-# 讲义题目
+
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 胡相涛 (white_emperor@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/whiteemperor13
 
 ---
 
-## 第一部分
+## 自我介绍
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="red">1. 生平</font>
 
----
+#### &nbsp; &nbsp; 1.1 初中
+#### &nbsp; &nbsp; 1.2 高中
+#### &nbsp; &nbsp; 1.3 大学
 
-## 插图
+### 2. 兴趣爱好
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### 3. 工作经历
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 生平
+
+1.1 初中<br>
+就读于河南省信阳市第九中学
+
+1.2 高中<br>
+就读于河南省信阳高中
+
+1.3 大学<br>
+就读于北京大学
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+---
+## 兴趣爱好
 
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+生活中的我爱好比较广泛，闲时会去健身房锻炼身体，或到游泳馆游泳。有时自己研究一些魔术，魔方，听听音乐，看看电影；有时也和同学一起玩一玩游戏。
 
 ---
 
-class: center, middle
+## 工作经历
+
+高三毕业后的暑假，进行了家教与夏令营组织的工作。
+
+
+
+
+---
+
+
+
 
 # 谢谢
